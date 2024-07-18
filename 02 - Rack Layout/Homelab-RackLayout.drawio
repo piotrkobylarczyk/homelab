@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2024-07-18T22:13:09.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6kHo-A3VufuF1g3Un2KC" version="24.7.1" type="google">
+  <diagram name="Page-1" id="AGpShSYp6FwJssIHhKHt">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Front&lt;/font&gt;" style="strokeColor=#666666;html=1;verticalLabelPosition=top;labelBackgroundColor=#ffffff;verticalAlign=bottom;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=descend;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="204" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-14" value="48 port pp" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="35" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-15" value="Tp link 24p" style="html=1;verticalLabelPosition=middle;verticalAlign=middle;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9776a_2530_24g_switch;align=left;labelPosition=right;spacingLeft=15;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="50" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-12" value="24 port pp" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="65" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-19" value="Asustor / KVM and&lt;div&gt;&amp;nbsp;Minipc zone&lt;/div&gt;" style="shape=mxgraph.rack.cisco.cisco_physical_security_multiservice_platform_4u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="80" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-16" value="Watchguard Firewall" style="html=1;verticalLabelPosition=middle;verticalAlign=middle;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.gateways_controllers.aruba_7024_mobility_controller_rear;labelPosition=right;align=left;spacingLeft=15;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="140" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-10" value="1U Shelf" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="155" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-9" value="2U Drawer" style="shape=mxgraph.rack.hp.hp_proliant_dl380e_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="200" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-8" value="R5 AM4 Desktop" style="shape=mxgraph.rack.apc.apc_smart_ups_5000_va_5u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="260" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-4" value="IBM x3650 M2" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="320" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-3" value="Dell R510 - Top" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="350" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-6" value="Dell R510 - Mid" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="380" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-7" value="Dell R510 - Bottom" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="410" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-5" value="UPS / Junk cable box" style="shape=mxgraph.rack.ibm.ibm_3000va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-1">
+          <mxGeometry x="33" y="440" width="162" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Back&lt;/font&gt;" style="strokeColor=#666666;html=1;verticalLabelPosition=top;labelBackgroundColor=#ffffff;verticalAlign=bottom;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=descend;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="204" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-20" value="1U Shelf" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="155" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-26" value="12 Socket strip" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;rotation=30;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="210" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-27" value="4 socket UPS strip" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;rotation=0;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="300" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-25" value="IBM x3650 M2" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_5x00;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="320" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-24" value="R510 Top" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_5x00;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="350" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-23" value="R510 Mid" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_5x00;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="380" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nc7v0HZzx6B20BmsNz-21" value="R510 Bottom" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_5x00;" vertex="1" parent="03Nc7v0HZzx6B20BmsNz-2">
+          <mxGeometry x="33" y="410" width="162" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
