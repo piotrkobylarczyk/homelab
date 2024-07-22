@@ -24,3 +24,8 @@ Last update: 2024-06-01
 | 8-7        | Dell R510 Mid          | Currently not in use                |
 | 6-5        | Dell R510 Bottom       | Currently not in use                |
 | 4-1        | UPS / Cable box        |                                     |
+
+
+### Diagrams.net
+
+![Rack diagram](./Homelab-RackLayout.drawio.png)
